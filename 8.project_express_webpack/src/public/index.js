@@ -1,6 +1,6 @@
 
 import appMain from './js/main.js' //import main.js
-// import scc work only with webpack
+// import scc work only with webpack(MiniCssExtractPlugin)
 import './css/normalize.css'
 import './css/style.css'
 // import img from './image.png'if   we use img 
