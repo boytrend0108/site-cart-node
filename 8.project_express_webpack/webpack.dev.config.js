@@ -2,7 +2,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    mode: `development`,// add
+    mode: `development`,// in thise mode name don't change
     entry: {
         main: ["@babel/polyfill", "./src/public/index.js"]
     },
@@ -12,8 +12,8 @@ module.exports = {
         filename: "js/[name].js"
     },
     target: 'web',
-    devtool: "inline-source-map",// change
-    devServer: {
+    devtool: "source-map",
+    devServer: {// this option for webpack-dev-middleware
         static: './dist',
     },
     module: {

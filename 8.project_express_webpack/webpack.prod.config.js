@@ -7,9 +7,9 @@ const TerserPlugin = require('terser-webpack-plugin');// to minify/minimize your
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');// to optimize and minify your CSS.
 
 module.exports = {
-    mode: 'production',// use this in production mode
+    mode: 'production',// use this in production mode(simplify names, url..)
     entry: {// point of entry
-        main: ["./src/public/index.js"]// where we start app
+        main: ["@babel/polyfill", "./src/public/index.js"]// where we start app
     },
     output: {
         path: path.resolve(__dirname, 'dist/public'),
@@ -39,9 +39,7 @@ module.exports = {
                 use: [
                     {
                         loader: "html-loader",
-                        // options: {
-                        //     minimize: true
-                        // }
+
                     }
                 ]
             },
