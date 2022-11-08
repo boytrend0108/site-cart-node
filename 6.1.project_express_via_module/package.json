@@ -1,0 +1,24 @@
+{
+  "name": "project_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildDev": "del /q dist && webpack --mode development --config webpack.server.config.js && webpack --mode development --config webpack.dev.config.js -w",
+    "buildProd": "del /q dist && webpack --mode production --config webpack.server.config.js && webpack --mode production --config webpack.prod.config.js",
+    "start": "nodemon src/server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "*.json"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.20"
+  }
+}

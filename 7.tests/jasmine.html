@@ -1,0 +1,63 @@
+<!---Running tests in browser-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Jasmine Core</title>
+    <!--1. Connect jasmine css-->
+    <link rel="stylesheet" href="node_modules/jasmine-core/lib/jasmine-core/jasmine.css">
+</head>
+
+<body>
+    <!--2. connect those scripts -->
+    <script src="node_modules/jasmine-core/lib/jasmine-core/jasmine.js"></script>
+    <script src="node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
+    <script src="node_modules/jasmine-core/lib/jasmine-core/boot.js"></script>
+
+    <script>
+        describe('Соответствие значений', () => {
+            it('Проверка а на значение 10', () => {
+                let a = 10; // То что проверяем
+                expect(a).toBe(10);
+            });
+        });
+
+        describe('Дополнительные функции', () => {
+            it('Сравнение объектов', () => {
+                const myGo = () => { };
+                const user1 = {
+                    name: 'John',
+                    age: 30,
+                    go: myGo,
+                };
+                const user2 = {
+                    name: 'John',
+                    age: 30,
+                    go: myGo,
+                };
+
+                expect(user1).toEqual(user2);
+                // expect(user1).not.toEqual(user2);
+            });
+
+            it('regexp', () => {
+                let str = 'Test AbcD jasmine';
+
+                expect(str).toMatch(/abcd/i);
+                // expect(str).not.toMatch(/abcd/i);
+            });
+
+            it('Arrays', () => {
+                const arr = ['black', 'white'];
+                const arr2 = ['white', 'black'];
+
+                // expect(arr).toEqual(arr2);
+                expect(arr).toContain('black');
+                // expect(arr).toContain('red');
+            });
+        });
+    </script>
+</body>
+
+</html>

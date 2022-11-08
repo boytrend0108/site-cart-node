@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Интернет-магазин</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="app">
+        <header>
+            <div class="logo">Интернет-магазин</div>
+            <div class="cart">
+                <filter-el></filter-el>
+                <cart ref="cart"></cart>
+            </div>
+        </header>
+        <main>
+            <products ref="products"></products>
+            <error ref="error"></error>
+        </main>
+    </div>
+    <!-- Подключаем fontAwesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js"
+        integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+        crossorigin="anonymous"></script>
+    <!-- 1. Подключаем Vue -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!-- 2. Подключаем Components. Сначала содаются все компоненты, потом
+    компоненты собираются через main.js -->
+    <script src="js/ProducComp.js"></script>
+    <script src="js/CartComp.js"></script>
+    <script src="js/FilterComp.js"></script>
+    <script src="js/ErrorComp.js"></script>
+    <!-- 3. Подключаем main.js -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>

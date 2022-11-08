@@ -1,0 +1,1259 @@
+[
+    {
+        "time": "29 Oct 2022, 7:59:17 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:21:55 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:21:55 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:21:55 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:03 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:03 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:03 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:04 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:05 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:05 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:05 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:07 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:07 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:07 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:08 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:08 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:08 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:10 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:10 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:10 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:17 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:18 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:18 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:18 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:18 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:19 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:19 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:22 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:23 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:22:35 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:34:30 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 2:38:54 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:40:31 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 2:40:42 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:57 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 3:22:58 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:00 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:01 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:03 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:03 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:04 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:04 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:04 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:04 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:23:05 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:27 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:29 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:29 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 3:50:30 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 4:03:50 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 4:03:50 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:03:50 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:03:51 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:26 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:26 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:28 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:28 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:28 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:30 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:30 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:45:31 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:54 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:55 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:55 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:56 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:56 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:57 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:57 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:57 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:58 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 4:57:58 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:43 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:43 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:44 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:44 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:45 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:45 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:45 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:45 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:46 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:47 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:47 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:47 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:48 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:48 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:50 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:50 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:50 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:51 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:51 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:20:52 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:12 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:18 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:19 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:23 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:24 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:24 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:33:27 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:54 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:54 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:55 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:57 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:57 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:57 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:47:58 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:00 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:01 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:01 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:03 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:04 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:07 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:08 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:17 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:48:18 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:49:30 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:49:32 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:03 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:04 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:07 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:08 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:09 pm",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:11 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:50:17 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:13 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:19 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:30 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:32 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:33 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:33 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:33 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:34 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:34 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:35 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:36 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2022, 5:51:37 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:18 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:20 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:21 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:23 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 3:43:24 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:25 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:27 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:27 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:59 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:19:59 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:00 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:01 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:02 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:03 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:08 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:08 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:08 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:09 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:09 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:20:09 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:23 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:24 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:24 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:24 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:24 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:24 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:25 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:21:26 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:23:39 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:05 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:06 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:07 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:08 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:08 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:08 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:12 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:13 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:17 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 5:24:19 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "03 Nov 2022, 5:43:49 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:44:08 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 5:44:12 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:44:13 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 5:44:15 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:00 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:00 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:01 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:01 pm",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:22 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:25 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:26 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:27 pm",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2022, 9:31:28 pm",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "04 Nov 2022, 10:27:53 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "04 Nov 2022, 10:27:53 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:01 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:04 am",
+        "action": "remove"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:06 am",
+        "prod_name": "Cart",
+        "action": "clear all"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:07 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:07 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:08 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:08 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:08 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:08 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:09 am",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:09 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:10 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:10 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:10 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:11 am",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:11 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:11 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:12 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:13 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:13 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:14 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:15 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:15 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:16 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:16 am",
+        "action": "change"
+    },
+    {
+        "time": "04 Nov 2022, 10:28:17 am",
+        "prod_name": "Cart",
+        "action": "clear all"
+    }
+]
