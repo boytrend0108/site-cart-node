@@ -1,19 +1,19 @@
 [
     {
-        "time": "08 Nov 2022, 4:55:02 am",
-        "prod_name": "Gamepad",
+        "time": "08 Nov 2022, 1:34:51 pm",
+        "prod_name": "Мышка",
         "action": "add"
     },
     {
-        "time": "08 Nov 2022, 4:55:02 am",
+        "time": "08 Nov 2022, 1:34:51 pm",
         "action": "change"
     },
     {
-        "time": "08 Nov 2022, 4:55:03 am",
+        "time": "08 Nov 2022, 1:34:52 pm",
         "action": "change"
     },
     {
-        "time": "08 Nov 2022, 4:55:03 am",
+        "time": "08 Nov 2022, 1:34:52 pm",
         "prod_name": "Cart",
         "action": "clear all"
     }

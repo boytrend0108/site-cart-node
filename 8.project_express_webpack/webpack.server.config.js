@@ -1,4 +1,5 @@
-const path = require('path');
+const path = require('path');// turn relative path to absolute
+// nodeExternals for ignore node-modules wher bundling webpack
 const nodeExternals = require('webpack-node-externals');
 const CopyPlugin = require('copy-webpack-plugin');
 
@@ -11,21 +12,22 @@ module.exports = {
         publicPath: "/",
         filename: "[name].js"
     },
-    target: "node",
+    target: "node",// in order to ignore built-in modules like path, fs, etc.
+    externalsPresets: { node: true }, // in order to ignore built-in modules like path, fs, etc.
     node: {
         // Только для express приложений
-        __dirname: false,
-        __filename: false
+        __dirname: false,//Webpack won't touch your __dirname
+        __filename: false //Webpack won't touch your __filename
     },
-    externals: [nodeExternals()], // Только для express приложений
+    externals: [nodeExternals()], // in order to ignore all modules in node_modules folder
     module: {
-        rules: [
+        rules: [// describe our rulse for loader
             {
-                test: /\.m?js$/,
-                exclude: /node_modules/,
+                test: /\.m?js$/,//for all js file
+                exclude: /node_modules/,// except file from this folder
                 use: {
-                    loader: "babel-loader",
-                    options: {
+                    loader: "babel-loader", //use this 
+                    options: {// whis thise presets
                         presets: ['@babel/preset-env']
                     }
                 }
@@ -37,8 +39,9 @@ module.exports = {
             patterns: [
                 {
                     from: 'src/server/db',// from ...
+                    // be neatly whith '.' between [][]!!!!
                     to: 'db/[name][ext]',// to dist/server/db. Name and extantions leave the same
-                    toType: `template`
+                    toType: `template`// determine type of 'to' directory, file or template
                 }
             ],
         })
