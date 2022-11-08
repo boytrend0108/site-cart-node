@@ -44,7 +44,6 @@ const cart = {// coздаем module cart
                     // забираем данные из сервера чтобы отрисовать в НТML
                     this.amount = data.amount;
                     this.countGoods = data.countGoods;
-
                 }
             });
     },

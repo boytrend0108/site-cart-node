@@ -20,7 +20,7 @@ const app = {
                     this.$refs.error.setError(error);
                 })
         },
-        postJson(url, data) {// data - our product that we clicked on + (quantity: 1, sumPrice: product.price)
+        postJson(url, data) {// data - our product that we clicked on + (quantity: 1)
             return fetch(url,
                 // this is mixin of our request
                 {

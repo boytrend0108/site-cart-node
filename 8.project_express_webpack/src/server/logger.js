@@ -10,7 +10,7 @@ const logger = (name, action) => {
     } else {
       const stat = JSON.parse(data);
       stat.push({
-        time: moment().format('DD MMM YYYY, h:mm:ss a'),
+        time: moment().format('DD MMM YYYY, h:mm:ss a'),// specify current time
         prod_name: name,
         action: action,
       });

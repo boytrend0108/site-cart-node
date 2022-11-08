@@ -2,14 +2,11 @@ const fs = require('fs');
 const cart = require('./cart');// connect cart.js
 const logger = require('./logger');// connect logger
 
-
-
 const actions = {
     add: cart.add,
     change: cart.change,
     remove: cart.remove,
 };
-
 
 const handler = (req, res, action, file) => {//file is abs.link to ./userCart.json
     fs.readFile(file, 'utf-8', (err, data) => {// here data-is our userCart.json

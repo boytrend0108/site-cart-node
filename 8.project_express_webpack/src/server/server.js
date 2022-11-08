@@ -13,7 +13,6 @@ app.use(
         publicPath: config.output.publicPath,
     })
 );
-
 //------------------------------------------------------------------
 app.use(express.json()); // подключаем промежуточное пр-е обеспечение (midleware), автопреобразование в json и обратно.
 app.use('/', express.static(path.resolve(__dirname, '../public')));//ecли обращаемся к корню сайта в адрессной строке- то отрисовываем всё что в ./public
