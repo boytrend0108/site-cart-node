@@ -28,7 +28,7 @@ const add = (cart, req) => {// cart is our cart
 
 const change = (cart, req) => {//here req is {quantity:1}
     let find = findFn(cart, req);//ищем в корзине товар по которому мі кликнули 
-    find.quantity += req.body.quantity;// меняем кол-во
+    find.quantity += req.body.quantity;// меняем кол-во(req.body.quantity= 1 or -1)
     sumPriceFn(cart, find);// пересчитываем сумму по конкретному товару.
     culcFn(cart);// считаем общую сумму в корзине
     return returnObj(cart, req);

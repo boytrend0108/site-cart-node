@@ -1,3 +1,0 @@
-Все собирается но не работает: - при импорте нигде не стоит .js
-Собрал но не работает:  - in main add .js everywhere
-pack, but don't work : in index.js add .js 
