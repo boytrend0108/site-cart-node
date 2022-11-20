@@ -4,6 +4,7 @@ import products from './ProducComp.js'
 import search from './FilterComp.js'
 import error from './ErrorComp.js'
 
+
 const app = {
     el: '#app', // connect app whith html
     // add this components

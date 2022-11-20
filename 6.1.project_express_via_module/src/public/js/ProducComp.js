@@ -14,7 +14,6 @@ const product = {
     `
 };
 
-
 const products = {
     components: { product },// connect with product component
 
